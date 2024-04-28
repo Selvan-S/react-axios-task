@@ -2,7 +2,7 @@
 ## About
 This an React Axios Task. Built using React, Tailwind CSS and mock api.
 
-- [Live Preview]()
+- [Live Preview](https://react-axios-selvan.netlify.app/)
 
 ## Run
 Step 1:
