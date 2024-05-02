@@ -6,7 +6,10 @@ function RenderUsers({ userData, setUserData }) {
   const navigate = useNavigate();
 
   return (
-    <div className="w-screen bg-gray-300 pt-8 px-4 pb-8">
+    <div className="w-screen bg-gray-300 pt-8 px-6 sm:px-4 pb-8">
+      <h1 className="text-2xl text-black text-center mb-8 uppercase font-bold">
+        user management
+      </h1>
       <div className="w-full flex justify-center">
         <button
           className="uppercase bg-sky-800 px-4 py-1 rounded-lg text-gray-50 font-bold text-lg mb-8"
